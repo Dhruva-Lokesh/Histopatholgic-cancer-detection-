@@ -1,3 +1,14 @@
+Histopathologic Cancer Detection Using Data Engineering Tools & AWS
+Overview
+This project leverages AWS services and machine learning to detect cancer in histopathological images. It integrates data engineering pipelines, cloud computing, and a Convolutional Neural Network (CNN) for accurate classification of tissue samples as malignant or benign.
+
+Features
+Data Storage: AWS S3 to store and retrieve histopathological image data.
+Data Processing: EMR for distributed preprocessing of large datasets.
+Model Training: TensorFlow on EC2 for optimizing the CNN architecture.
+Web Application: Flask-based interface for image upload and real-time predictions.
+Cloud Integration: Seamless use of AWS tools like Boto3 for programmatic interaction.
+
 ![image](https://github.com/user-attachments/assets/489705fc-cec3-4339-88c8-b607a0671359)
 ![image](https://github.com/user-attachments/assets/6c125637-a1e2-4d05-ba3e-4ced8c9f4261)
 
