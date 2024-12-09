@@ -5,6 +5,6 @@
 
 <img width="1512" alt="Screenshot 2024-12-08 at 2 20 28 PM" src="https://github.com/user-attachments/assets/3b762250-321b-4ceb-83c1-2e27983df9bf">
 
-____Here below is the AWS_ARCHITECTURE snippet of my project_____
+
 
 
